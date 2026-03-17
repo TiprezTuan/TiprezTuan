@@ -34,7 +34,7 @@ Un étudiant passionné par le développement bas niveau et les architectures lo
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiprezTuan&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiprezTuanB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiprezTuan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
