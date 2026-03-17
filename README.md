@@ -2,14 +2,12 @@
 
 # Hi, I'm Tuan! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&center=true&vCenter=true&color=A67E5B&width=435&lines=STUDENT+AT+42+PARIS;FULL-STACK+DEVELOPER;TECH+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&center=true&vCenter=true&color=FFFFFF&width=435&lines=STUDENT+AT+42+PARIS;TECH+ENTHUSIAST)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me
 Un étudiant passionné par le développement bas niveau et les architectures logicielles, actuellement en train de forger mes compétences à **42 Paris**.
-
-[![Vercel](https://visit-counter.vercel.app/counter.png?page=TUAN_GITHUB_USERNAME)](https://github.com/TUAN_GITHUB_USERNAME)
 
 </div>
 
