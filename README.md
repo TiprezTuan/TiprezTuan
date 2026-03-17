@@ -32,8 +32,8 @@ Un étudiant passionné par le développement bas niveau et les architectures lo
 
 ## 📊 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiprezTuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiprezTuan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Un étudiant passionné par le développement bas niveau et les architectures lo
 
 <div align="center">
   <p>Projet en cours : <b>Minishell / Philosophers / etc.</b></p>
-  <a href="https://linkedin.com/in/TON_LINKEDIN">
+  <a href="https://linkedin.com/in/tuan-tiprez-166a5b2bb">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
