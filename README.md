@@ -9,7 +9,7 @@
 ### 🚀 About Me
 Un étudiant passionné par le développement bas niveau et les architectures logicielles, actuellement en train de forger mes compétences à **42 Paris**.
 
-[![](https://visit-counter.vercel.app/counter.png?page=TUAN_GITHUB_USERNAME)](https://github.com/TUAN_GITHUB_USERNAME)
+[![Vercel](https://visit-counter.vercel.app/counter.png?page=TUAN_GITHUB_USERNAME)](https://github.com/TUAN_GITHUB_USERNAME)
 
 </div>
 
