@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adrien!
+# Hi, I'm Tuan!
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&center=true&vCenter=true&color=A67E5B&width=435&lines=STUDENT+AT+42+PARIS)](https://git.io/typing-svg)
